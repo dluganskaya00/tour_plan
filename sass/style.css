@@ -11,17 +11,17 @@
   margin: auto;
 }
 
-.header {
-  background-color: #fffff;
+.navbar {
+  background-color: #FFFFF;
 }
-.header-top {
+.navbar-top {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding-top: 40px;
   padding-bottom: 40px;
 }
-.header__search {
+.navbar__search {
   margin-right: auto;
   margin-left: 108px;
 }
